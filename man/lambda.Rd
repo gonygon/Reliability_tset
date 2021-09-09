@@ -1,9 +1,16 @@
-#' lambda() Function
-#'
-#' This function adds a and b
-#' @param t
-#' @keywords lambda
-#' @export
-#' @examples
-#' lambda()
+\name{lambda}
+\alias{lambda}
+\title{lambda}
+\description{}
+\usage{lambda(x)}
+\arguments{
+  \item{x}{}
+\details{}
+\value{}
+\references{}
+\author{}
+\note{}
+\seealso{}
+\examples{lambda()}
+
 lambda<-function(t){return(1/mean(t))}
